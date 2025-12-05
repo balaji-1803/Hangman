@@ -1,0 +1,11 @@
+python
+hangman
+challenge
+programming
+testing
+computer
+science
+openai
+keyboard
+function
+variable
